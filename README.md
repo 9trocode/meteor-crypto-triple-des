@@ -17,12 +17,15 @@ Inside your project folder run
 $ meteor add ikaedesu:crypto-triple-des
 ```
 
+<<<<<<< HEAD
+=======
 The following method under the CryptoJS namespace will now be available
 on **both the client and server**:
 
 `CryptoJS.DES(message)`
 
 
+>>>>>>> 23b05762f9ee653d75ff022abee01d4668471e49
 Usage
 -------
 ```javascript
@@ -37,7 +40,11 @@ console.log(decrypted.toString(CryptoJS.enc.Utf8));
 
 See also
 --------
+<<<<<<< HEAD
+The CryptoJS project lives at <https://code.google.com/p/crypto-js/> and the documentation for DES is at <https://code.google.com/p/crypto-js/#DES>.
+=======
 The CryptoJS project lives at <https://code.google.com/p/crypto-js/> and the documentation for MD5 is at <https://code.google.com/p/crypto-js/#DES>.
+>>>>>>> 23b05762f9ee653d75ff022abee01d4668471e49
 
 Credits
 -------
