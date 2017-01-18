@@ -2,7 +2,7 @@ Package.describe({
   //name: 'ikae:crypto-triple-des',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Triple DES algorithm for CryptoJS, standard secure algorithms',
+  summary: 'Triple DES algorithm for CryptoJS, standard secure algorithms. based on https://github.com/p-j/meteor-crypto-md5',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/ikae/meteor-crypto-triple-des.git',
   // By default, Meteor will default to using README.md for documentation.
